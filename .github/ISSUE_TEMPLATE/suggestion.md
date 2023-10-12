@@ -3,7 +3,7 @@ name: Suggestion
 about: Suggest an idea for the Minecraft server!
 title: ''
 labels: Suggestion
-assignees: ''
+assignees: SigurdVie
 
 ---
 
